@@ -14,5 +14,5 @@ This is a classic snake game, built using Java only
 
 <br/><br/>
 
-<img src="screenshots/screenshot-snake-2.JPGg"></a>
+<img src="screenshots/screenshot-snake-2.JPG"></a>
 <br/>
