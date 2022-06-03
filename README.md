@@ -1,4 +1,4 @@
-## E-Commerce website
+## Snake Game
 
 <br/>
 This is a classic snake game, built using Java only
